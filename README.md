@@ -1,4 +1,4 @@
-# What Are The Effects of COVID-19 locally (Virginia)
+# What Are The Effects of COVID-19 locally (Virginia)?
 
 
 The Virginia Department of Health (VDH) is providing a detailed, near real-time health data regarding COVID-19. This dataset is for public use and it could be found [here](https://www.vdh.virginia.gov/coronavirus/). The datasets used in this project includes the cumulative (total) number of COVID-19 cases, hospitalizations, and deaths for each health district in Virginia by report date, age group, and race & ethnicity. 
